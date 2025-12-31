@@ -76,3 +76,8 @@ img{
 .ofh{
     overflow: hidden;
 }
+@media (max-width:700px) {
+    .hero_title h1{
+        font-size: 9rem;
+    }
+}
